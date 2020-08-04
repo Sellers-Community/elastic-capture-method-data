@@ -6,7 +6,7 @@ In your pom.xml use:
 
 ``` xml
 <dependency>
-   <groupId>com.gitlab.klabs</groupId>
+   <groupId>org.bitbucket.tradedigital</groupId>
    <artifactId>elastic-capture-method-data</artifactId>
    <version>1.0.0</version>
 </dependency>
